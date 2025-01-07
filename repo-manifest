@@ -5,3 +5,4 @@
 # 
 # {remote_repo_url} {local_repo}
 ###############################################################################
+git@github.com:walidshaari/Kubernetes-Certified-Administrator k8s-certified-administrator
